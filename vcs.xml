@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/davidgassner/AndroidJetpack2020.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="pcsoni007" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\sonip\AndroidStudioProjects" />
